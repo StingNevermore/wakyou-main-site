@@ -1,0 +1,230 @@
+{
+  "lang": "中文",
+  "meta": {
+    "home": "株式会社和橋商事 \\| 连接日本与全球市场",
+    "business": "业务内容 \\| 株式会社和橋商事",
+    "company": "公司信息 \\| 株式会社和橋商事",
+    "profile": "社长致辞 \\| 株式会社和橋商事",
+    "contact": "联系我们 \\| 株式会社和橋商事"
+  },
+  "nav": {
+    "home": "首页",
+    "business": "业务内容",
+    "company": "公司信息",
+    "profile": "社长致辞",
+    "contact": "联系我们"
+  },
+  "common": {
+    "details": "了解详情",
+    "contact": "联系我们",
+    "back": "返回首页",
+    "pageEyebrow": "WAKYOU TRADING"
+  },
+  "a11y": {
+    "brandHome": "和橋商事首页",
+    "mainNavigation": "主导航",
+    "footerNavigation": "页脚导航",
+    "language": "显示语言",
+    "menuOpen": "打开菜单",
+    "menuClose": "关闭菜单"
+  },
+  "home": {
+    "heroEyebrow": "DIGITAL × GLOBAL BUSINESS",
+    "heroTitle": "Connecting Japan\nwith Global Markets.",
+    "heroLead": "连接日本与世界，\n成为数字时代的商业伙伴。",
+    "heroSub": "International Trading, Cross-border E-Commerce & Business Solutions",
+    "primary": "查看业务内容",
+    "servicesLabel": "OUR BUSINESS",
+    "servicesTitle": "以线上能力与科技，\n推动跨境商业增长。",
+    "servicesIntro": "将贸易、电商与创作者经济连接成一个商业网络，帮助企业持续开拓新市场。",
+    "services": [
+      {
+        "id": "trading",
+        "title": "International Trading",
+        "subtitle": "国际贸易",
+        "text": "连接日本与全球市场，拓展商品、品牌与市场的更多可能。"
+      },
+      {
+        "id": "ec",
+        "title": "Cross-border EC Solutions",
+        "subtitle": "跨境电商解决方案",
+        "text": "以数据与运营能力，支持品牌出海和长期增长。"
+      },
+      {
+        "id": "creator",
+        "title": "Creator & Live Commerce",
+        "subtitle": "创作者与直播电商",
+        "text": "连接创作者与品牌，创造新的消费体验。"
+      }
+    ],
+    "positioningLabel": "OUR POSITION",
+    "positioningTitle": "A trading company built for the digital economy.",
+    "positioningText": "我们不只是一家负责商品流通的贸易公司。我们将IT、电商和数字营销结合起来，设计真正适应跨境业务发展的商业体系。",
+    "points": [
+      "全球采购与销售网络",
+      "依托电商平台开拓新市场",
+      "以数据和技术支持企业增长"
+    ],
+    "philosophyLabel": "COMPANY PHILOSOPHY",
+    "philosophyTitle": "连接信任，创造价值。",
+    "philosophyText": "我们希望成为连接人与人、企业与企业、日本与世界之间的桥梁，通过诚信经营与持续创新，与客户共同创造新的价值。",
+    "ctaTitle": "让我们一起，\n开启跨境商业的新机会。",
+    "ctaText": "欢迎就商品、品牌、电商运营及海外市场拓展与我们联系。"
+  },
+  "business": {
+    "eyebrow": "OUR BUSINESS",
+    "title": "业务内容",
+    "intro": "以国际贸易为核心，融合跨境电商与创作者经济，为企业提供贯穿市场开拓全流程的支持。",
+    "sections": [
+      {
+        "id": "trading",
+        "no": "01",
+        "title": "International Trading",
+        "ja": "国际贸易 / 跨境交易",
+        "text": "连接日本与海外企业、商品及市场，从采购到销售提供灵活支持，并关注线上销售导向的选品与市场开拓。",
+        "items": [
+          "日本商品出口",
+          "日本品牌代理",
+          "中国商品进口",
+          "国际贸易",
+          "批发与零售",
+          "海外销售渠道拓展"
+        ]
+      },
+      {
+        "id": "ec",
+        "no": "02",
+        "title": "EC Business Solutions",
+        "ja": "电商业务解决方案",
+        "text": "从店铺搭建、运营、商品策划到海外品牌进入日本市场，在执行和战略层面持续陪伴企业成长。",
+        "items": [
+          "电商店铺运营",
+          "Amazon与乐天运营",
+          "商品策划",
+          "海外品牌进入日本市场",
+          "日本与中国市场咨询",
+          "跨境电商与商业战略咨询"
+        ]
+      },
+      {
+        "id": "creator",
+        "no": "03",
+        "title": "Creator & Live Commerce",
+        "ja": "创作者与直播电商",
+        "text": "连接创作者成长与品牌销售，借助直播和内容创造新的商业通路。",
+        "items": [
+          "主播招募与培训",
+          "Creator Management",
+          "MCN咨询",
+          "直播运营咨询",
+          "TikTok直播咨询",
+          "直播带货支持"
+        ]
+      }
+    ],
+    "ctaTitle": "我们会根据您的业务，提供最合适的推进方案。"
+  },
+  "company": {
+    "eyebrow": "COMPANY",
+    "title": "公司信息",
+    "intro": "以信任为起点，探索连接数字科技与全球市场的新型商贸公司。",
+    "philosophyLabel": "COMPANY PHILOSOPHY",
+    "philosophyTitle": "连接信任，创造价值。",
+    "philosophyText": "我们希望成为连接人与人、企业与企业、日本与世界之间的桥梁。通过诚信经营、专业服务和持续创新，为客户创造价值，为合作伙伴创造机会，为社会创造贡献。依托国际贸易、跨境电商、商业咨询以及创作者经济等业务，不断推动商业合作的发展，实现企业与客户共同成长。",
+    "missionTitle": "MISSION",
+    "mission": "连接日本与世界，创造新的商业价值。",
+    "visionTitle": "VISION",
+    "vision": "成为值得全球信赖的国际商贸与商业解决方案企业。",
+    "valuesTitle": "VALUE",
+    "values": [
+      {
+        "title": "诚信 / Integrity",
+        "text": "诚信经营，以信任建立长期合作。"
+      },
+      {
+        "title": "创新 / Innovation",
+        "text": "拥抱数字技术，不断突破传统商业模式。"
+      },
+      {
+        "title": "共创 / Partnership",
+        "text": "与客户、合作伙伴共同成长。"
+      },
+      {
+        "title": "国际视野 / Global Perspective",
+        "text": "以全球视野连接市场与机会。"
+      }
+    ],
+    "overviewTitle": "COMPANY OVERVIEW",
+    "overview": [
+      [
+        "公司名称",
+        "株式会社和橋商事"
+      ],
+      [
+        "英文名称",
+        "Wakyou Trading Co., Ltd."
+      ],
+      [
+        "代表董事",
+        "飯島 航"
+      ],
+      [
+        "业务内容",
+        "国际贸易、批发零售、跨境电商、电商运营支持、商业咨询、创作者及直播电商支持"
+      ]
+    ]
+  },
+  "profile": {
+    "eyebrow": "PRESIDENT MESSAGE",
+    "title": "社长致辞",
+    "intro": "融合IT与商业，创造超越传统商社框架的新价值。",
+    "name": "代表董事　飯島 航",
+    "message": [
+      "衷心感谢各位长期以来对株式会社和橋商事的支持。",
+      "和橋商事秉持“连接信任，创造价值”的理念，努力成为连接日本与世界的桥梁，与客户携手前行。",
+      "随着数字技术和新商业模式的发展，国际贸易与跨境电商正在快速变化。我们通过国际贸易、批发零售、跨境电商、电商运营、贸易咨询，以及直播电商与创作者业务咨询，为每一位客户提供贴近实际需求的解决方案。",
+      "我曾在信息技术领域学习系统开发、网络技术等专业知识。我相信，将IT与商业相融合，能够创造超越传统商社框架的新价值。",
+      "企业经营最重要的是信任。我们将真诚对待每一项工作，持续提供长期价值。今后也敬请继续支持株式会社和橋商事。"
+    ],
+    "profileLabel": "PROFILE",
+    "profileTitle": "飯島 航",
+    "role": "代表董事",
+    "bio": "1999年出生。学习信息技术领域专业知识，重点掌握IT、网络和软件开发，并取得Java编程、网络、数据库等多项资格。现任株式会社和橋商事代表董事，致力于国际贸易、跨境电商和数字商业的发展，积极构建连接日本与海外的新型商业模式。",
+    "personalLabel": "PERSONAL",
+    "personal": [
+      "阅读",
+      "研究IT、AI等新技术",
+      "体育运动",
+      "关注国内外经济与商业资讯",
+      "社区活动与志愿服务"
+    ],
+    "mottoLabel": "座右铭",
+    "motto": "信任是一切商业的起点。"
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "联系我们",
+    "intro": "欢迎就国际贸易、跨境电商、电商运营、海外市场拓展及创作者业务与我们咨询。",
+    "formTitle": "请告诉我们您的需求",
+    "fields": {
+      "company": "公司名称",
+      "name": "姓名",
+      "email": "邮箱",
+      "category": "咨询类别",
+      "message": "咨询内容",
+      "consent": "我同意个人信息处理条款。",
+      "submit": "创建咨询邮件"
+    },
+    "categories": [
+      "国际贸易与批发",
+      "跨境电商与店铺运营",
+      "市场进入与商业咨询",
+      "创作者与直播电商",
+      "其他"
+    ],
+    "success": "正在打开邮件客户端，请确认内容后发送。",
+    "directTitle": "邮件咨询",
+    "directText": "也可直接发送邮件与我们联系。",
+    "note": "我们通常会在2个工作日内回复。"
+  }
+}

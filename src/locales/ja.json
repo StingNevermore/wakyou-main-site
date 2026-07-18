@@ -1,0 +1,230 @@
+{
+  "lang": "JA",
+  "meta": {
+    "home": "株式会社和橋商事 \\| 日本と世界をつなぐビジネスパートナー",
+    "business": "事業内容 \\| 株式会社和橋商事",
+    "company": "企業情報 \\| 株式会社和橋商事",
+    "profile": "代表メッセージ \\| 株式会社和橋商事",
+    "contact": "お問い合わせ \\| 株式会社和橋商事"
+  },
+  "nav": {
+    "home": "ホーム",
+    "business": "事業内容",
+    "company": "企業情報",
+    "profile": "代表メッセージ",
+    "contact": "お問い合わせ"
+  },
+  "common": {
+    "details": "詳しく見る",
+    "contact": "お問い合わせ",
+    "back": "ホームへ戻る",
+    "pageEyebrow": "WAKYOU TRADING"
+  },
+  "a11y": {
+    "brandHome": "和橋商事 ホーム",
+    "mainNavigation": "メインナビゲーション",
+    "footerNavigation": "フッターナビゲーション",
+    "language": "表示言語",
+    "menuOpen": "メニューを開く",
+    "menuClose": "メニューを閉じる"
+  },
+  "home": {
+    "heroEyebrow": "DIGITAL × GLOBAL BUSINESS",
+    "heroTitle": "Connecting Japan\nwith Global Markets.",
+    "heroLead": "日本と世界をつなぐ、\nデジタル時代のビジネスパートナー。",
+    "heroSub": "International Trading, Cross-border E-Commerce & Business Solutions",
+    "primary": "事業内容を見る",
+    "servicesLabel": "OUR BUSINESS",
+    "servicesTitle": "オンラインとテクノロジーで、\n国境を越えるビジネスを支える。",
+    "servicesIntro": "貿易、EC、クリエイター領域を一つのネットワークとして捉え、企業の新しい市場づくりを支援します。",
+    "services": [
+      {
+        "id": "trading",
+        "title": "International Trading",
+        "subtitle": "国際貿易",
+        "text": "日本と世界をつなぎ、商品・ブランド・市場の可能性を広げます。"
+      },
+      {
+        "id": "ec",
+        "title": "Cross-border EC Solutions",
+        "subtitle": "越境ECソリューション",
+        "text": "データと運営力で、ブランドの海外展開と継続的な成長を支援します。"
+      },
+      {
+        "id": "creator",
+        "title": "Creator & Live Commerce",
+        "subtitle": "クリエイター＆ライブコマース",
+        "text": "クリエイターとブランドをつなぎ、新しい購買体験を創造します。"
+      }
+    ],
+    "positioningLabel": "OUR POSITION",
+    "positioningTitle": "A trading company built for the digital economy.",
+    "positioningText": "私たちは、商品を運ぶだけの商社ではありません。IT、EC、デジタルマーケティングを組み合わせ、国境を越えるビジネスの仕組みそのものを設計します。",
+    "points": [
+      "グローバルな調達・販売ネットワーク",
+      "ECプラットフォームを活用した市場開拓",
+      "データとテクノロジーを生かした事業支援"
+    ],
+    "philosophyLabel": "COMPANY PHILOSOPHY",
+    "philosophyTitle": "信頼をつなぎ、価値を創る。",
+    "philosophyText": "人と人、企業と企業、日本と世界をつなぐ架け橋となり、誠実な取引と革新的なサービスを通じて、お客様とともに新たな価値を創造します。",
+    "ctaTitle": "国境を越えるビジネスを、\nともに始めませんか。",
+    "ctaText": "商品、ブランド、EC運営、海外展開についてお気軽にご相談ください。"
+  },
+  "business": {
+    "eyebrow": "OUR BUSINESS",
+    "title": "事業内容",
+    "intro": "国際貿易を中核に、越境ECとクリエイター領域を組み合わせ、企業の市場開拓を一気通貫で支援します。",
+    "sections": [
+      {
+        "id": "trading",
+        "no": "01",
+        "title": "International Trading",
+        "ja": "国際貿易 / クロスボーダー取引",
+        "text": "日本と海外の企業・商品・市場をつなぎ、調達から販売まで柔軟に対応します。オンライン販売を前提とした商品選定や市場開拓にも強みがあります。",
+        "items": [
+          "日本商品の輸出",
+          "日本ブランド代理",
+          "中国商品の輸入",
+          "国際貿易",
+          "卸売・小売",
+          "海外販路開拓"
+        ]
+      },
+      {
+        "id": "ec",
+        "no": "02",
+        "title": "EC Business Solutions",
+        "ja": "EC事業ソリューション",
+        "text": "EC店舗の立ち上げから運営、商品企画、海外ブランドの日本進出まで、実務と戦略の両面から伴走します。",
+        "items": [
+          "EC店舗運営",
+          "Amazon・楽天運営",
+          "商品企画",
+          "海外ブランドの日本市場参入",
+          "日本・中国市場コンサルティング",
+          "越境EC・事業戦略コンサルティング"
+        ]
+      },
+      {
+        "id": "creator",
+        "no": "03",
+        "title": "Creator & Live Commerce",
+        "ja": "クリエイター＆ライブコマース",
+        "text": "クリエイターの成長とブランドの販売活動をつなぎ、ライブ配信を活用した新しい商流づくりを支援します。",
+        "items": [
+          "クリエイター募集・育成",
+          "Creator Management",
+          "MCNコンサルティング",
+          "ライブ配信運営相談",
+          "TikTokライブ相談",
+          "ライブコマース支援"
+        ]
+      }
+    ],
+    "ctaTitle": "事業に合わせた最適な進め方をご提案します。"
+  },
+  "company": {
+    "eyebrow": "COMPANY",
+    "title": "企業情報",
+    "intro": "信頼を起点に、デジタルとグローバルを結ぶ新しい商社の形を追求します。",
+    "philosophyLabel": "COMPANY PHILOSOPHY",
+    "philosophyTitle": "信頼をつなぎ、価値を創る。",
+    "philosophyText": "私たちは、人と人、企業と企業、日本と世界をつなぐ架け橋となり、誠実な取引と革新的なサービスを通じて、お客様とともに新たな価値を創造します。国際貿易、越境EC、ビジネスコンサルティング、クリエイター支援事業を通じ、持続可能な社会と豊かな未来の実現に貢献してまいります。",
+    "missionTitle": "MISSION",
+    "mission": "日本と世界をつなぎ、新たなビジネス価値を創造する。",
+    "visionTitle": "VISION",
+    "vision": "世界で信頼される総合商社・ビジネスソリューション企業を目指す。",
+    "valuesTitle": "VALUE",
+    "values": [
+      {
+        "title": "誠実 / Integrity",
+        "text": "誠実な姿勢で、長期的な信頼関係を築きます。"
+      },
+      {
+        "title": "挑戦 / Innovation",
+        "text": "デジタル技術を生かし、新しい商流に挑み続けます。"
+      },
+      {
+        "title": "共創 / Partnership",
+        "text": "お客様、パートナーとともに成長します。"
+      },
+      {
+        "title": "国際性 / Global Perspective",
+        "text": "国際的な視点で市場と機会をつなぎます。"
+      }
+    ],
+    "overviewTitle": "COMPANY OVERVIEW",
+    "overview": [
+      [
+        "会社名",
+        "株式会社和橋商事"
+      ],
+      [
+        "英文名",
+        "Wakyou Trading Co., Ltd."
+      ],
+      [
+        "代表取締役",
+        "飯島 航"
+      ],
+      [
+        "事業内容",
+        "国際貿易、卸売・小売、越境EC、EC運営支援、ビジネスコンサルティング、クリエイター・ライブコマース支援"
+      ]
+    ]
+  },
+  "profile": {
+    "eyebrow": "PRESIDENT MESSAGE",
+    "title": "代表メッセージ",
+    "intro": "ITとビジネスを融合し、従来の商社の枠を超えた価値を創造します。",
+    "name": "代表取締役　飯島 航",
+    "message": [
+      "平素より株式会社和橋商事をご支援いただき、誠にありがとうございます。",
+      "和橋商事は、「信頼をつなぎ、価値を創る。」という理念のもと、日本と世界を結ぶ架け橋として、お客様とともに歩み続けています。",
+      "国際貿易や越境ECを取り巻く環境は、デジタル技術の進歩と新しいビジネスモデルの誕生により大きく変化しています。私たちは、国際貿易、小売・卸売、越境EC、EC運営支援、貿易コンサルティング、そしてライブコマースやクリエイター事業に関するコンサルティングを通じ、お客様一人ひとりの課題に寄り添い、最適なソリューションを提供してまいります。",
+      "私は情報技術分野を学び、システム開発やネットワーク技術などの知識を培ってまいりました。ITとビジネスを融合させることで、従来の商社の枠を超えた新しい価値を創造できると信じています。",
+      "企業経営において最も大切なのは、信頼です。一つひとつの仕事に誠実に向き合い、長期的な価値を提供してまいります。今後とも変わらぬご支援を賜りますよう、よろしくお願い申し上げます。"
+    ],
+    "profileLabel": "PROFILE",
+    "profileTitle": "飯島 航",
+    "role": "代表取締役",
+    "bio": "1999年生まれ。情報技術分野を学び、IT・ネットワーク・ソフトウェア開発を中心に専門知識を修得。Javaプログラミング、ネットワーク、データベースなど複数の資格を取得。現在は株式会社和橋商事の代表取締役として、国際貿易、越境EC、デジタルビジネスの発展に取り組み、日本と海外を結ぶ新たなビジネスモデルの構築を目指している。",
+    "personalLabel": "PERSONAL",
+    "personal": [
+      "読書",
+      "IT・AIなど最新技術の研究",
+      "スポーツ",
+      "国内外の経済・ビジネス情報の収集",
+      "地域活動・ボランティア"
+    ],
+    "mottoLabel": "座右の銘",
+    "motto": "信頼はすべてのビジネスの原点。"
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "お問い合わせ",
+    "intro": "国際貿易、越境EC、EC運営、海外展開、クリエイター事業に関するご相談を承ります。",
+    "formTitle": "ご相談内容をお聞かせください",
+    "fields": {
+      "company": "会社名",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "category": "お問い合わせ種別",
+      "message": "お問い合わせ内容",
+      "consent": "個人情報の取り扱いに同意します。",
+      "submit": "メールを作成する"
+    },
+    "categories": [
+      "国際貿易・卸売",
+      "越境EC・EC運営",
+      "市場参入・事業相談",
+      "クリエイター・ライブコマース",
+      "その他"
+    ],
+    "success": "メールソフトを開きます。送信内容をご確認ください。",
+    "directTitle": "メールでのお問い合わせ",
+    "directText": "直接メールでのご相談も承ります。",
+    "note": "通常2営業日以内にご連絡いたします。"
+  }
+}

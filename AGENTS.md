@@ -12,4 +12,8 @@ When implementing from a selected generated mock, treat that image as the source
 - The brand must feel digitally native, online, networked, and technology-led—not like a traditional multinational shipping company.
 - International trading remains the primary business; cross-border EC and creator/live commerce are connected solution lines.
 - Default language is Japanese with complete Chinese and English switching.
+- Use Vue I18n Composition API as the single source of locale state, with Japanese as the fallback.
+- Resolve language in this order: `?lang=` query, saved choice, browser language, then Japanese; keep Japanese URLs clean and use `?lang=zh|en` for shareable non-Japanese pages.
+- Use one compact native language select with self-language labels (`日本語`, `简体中文`, `English`) in the header and mobile menu.
+- Keep editable copy in one JSON resource per language under `src/locales/`; non-developers should not need to edit JavaScript to update translations.
 - The implementation stack is Vue 3 with Vite; do not reintroduce React.

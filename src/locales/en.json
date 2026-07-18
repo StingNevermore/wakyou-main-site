@@ -1,0 +1,230 @@
+{
+  "lang": "EN",
+  "meta": {
+    "home": "Wakyou Trading \\| Connecting Japan with Global Markets",
+    "business": "Our Business \\| Wakyou Trading",
+    "company": "Company \\| Wakyou Trading",
+    "profile": "President Message \\| Wakyou Trading",
+    "contact": "Contact \\| Wakyou Trading"
+  },
+  "nav": {
+    "home": "Home",
+    "business": "Business",
+    "company": "Company",
+    "profile": "President",
+    "contact": "Contact"
+  },
+  "common": {
+    "details": "Learn more",
+    "contact": "Contact us",
+    "back": "Back to home",
+    "pageEyebrow": "WAKYOU TRADING"
+  },
+  "a11y": {
+    "brandHome": "Wakyou Trading home",
+    "mainNavigation": "Main navigation",
+    "footerNavigation": "Footer navigation",
+    "language": "Display language",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "home": {
+    "heroEyebrow": "DIGITAL × GLOBAL BUSINESS",
+    "heroTitle": "Connecting Japan\nwith Global Markets.",
+    "heroLead": "Your business partner for\nthe connected economy.",
+    "heroSub": "International Trading, Cross-border E-Commerce & Business Solutions",
+    "primary": "Explore our business",
+    "servicesLabel": "OUR BUSINESS",
+    "servicesTitle": "Powering cross-border growth\nthrough commerce and technology.",
+    "servicesIntro": "We connect trading, e-commerce and the creator economy as one business network, helping companies build new markets.",
+    "services": [
+      {
+        "id": "trading",
+        "title": "International Trading",
+        "subtitle": "Global Trade",
+        "text": "Connecting Japan with global products, brands and market opportunities."
+      },
+      {
+        "id": "ec",
+        "title": "Cross-border EC Solutions",
+        "subtitle": "E-Commerce Growth",
+        "text": "Helping brands expand internationally through data and hands-on operations."
+      },
+      {
+        "id": "creator",
+        "title": "Creator & Live Commerce",
+        "subtitle": "Creator Economy",
+        "text": "Connecting creators and brands to build new buying experiences."
+      }
+    ],
+    "positioningLabel": "OUR POSITION",
+    "positioningTitle": "A trading company built for the digital economy.",
+    "positioningText": "We do more than move products. By combining IT, e-commerce and digital marketing, we design the systems that make cross-border business work.",
+    "points": [
+      "Global sourcing and sales networks",
+      "Market development through e-commerce platforms",
+      "Business growth powered by data and technology"
+    ],
+    "philosophyLabel": "COMPANY PHILOSOPHY",
+    "philosophyTitle": "Connecting trust. Creating value.",
+    "philosophyText": "We bridge people, businesses, Japan and the world—creating new value with our clients through honest trading and forward-looking services.",
+    "ctaTitle": "Ready to build business\nbeyond borders?",
+    "ctaText": "Talk to us about products, brands, e-commerce operations and international expansion."
+  },
+  "business": {
+    "eyebrow": "OUR BUSINESS",
+    "title": "Business",
+    "intro": "With international trading at our core, we combine cross-border e-commerce and creator commerce to support market development end to end.",
+    "sections": [
+      {
+        "id": "trading",
+        "no": "01",
+        "title": "International Trading",
+        "ja": "Global & Cross-border Trade",
+        "text": "We connect companies, products and markets across Japan and overseas, supporting flexible sourcing and sales with a digital-first market perspective.",
+        "items": [
+          "Export of Japanese products",
+          "Japanese brand representation",
+          "Import of Chinese products",
+          "International trade",
+          "Wholesale and retail",
+          "Overseas channel development"
+        ]
+      },
+      {
+        "id": "ec",
+        "no": "02",
+        "title": "EC Business Solutions",
+        "ja": "E-Commerce Consulting",
+        "text": "From store launches and operations to product planning and Japan market entry, we support both execution and strategy.",
+        "items": [
+          "EC store operations",
+          "Amazon and Rakuten operations",
+          "Product planning",
+          "Japan market entry",
+          "Japan and China market consulting",
+          "Cross-border EC and business strategy"
+        ]
+      },
+      {
+        "id": "creator",
+        "no": "03",
+        "title": "Creator & Live Commerce",
+        "ja": "Creator Business",
+        "text": "We connect creator growth with brand sales and help build new commercial channels through content and live streaming.",
+        "items": [
+          "Creator recruitment and training",
+          "Creator management",
+          "MCN consulting",
+          "Live-stream operations consulting",
+          "TikTok LIVE consulting",
+          "Live commerce support"
+        ]
+      }
+    ],
+    "ctaTitle": "Let’s find the right path for your business."
+  },
+  "company": {
+    "eyebrow": "COMPANY",
+    "title": "Company",
+    "intro": "Starting with trust, we are building a new kind of trading company that connects digital technology and global markets.",
+    "philosophyLabel": "COMPANY PHILOSOPHY",
+    "philosophyTitle": "Connecting trust. Creating value.",
+    "philosophyText": "We aim to be a bridge between people, companies, Japan and the world. Through honest business, professional service and continuous innovation, we create value for clients, opportunities for partners and a positive contribution to society.",
+    "missionTitle": "MISSION",
+    "mission": "Connect Japan with the world and create new business value.",
+    "visionTitle": "VISION",
+    "vision": "To become a globally trusted trading and business solutions company.",
+    "valuesTitle": "VALUE",
+    "values": [
+      {
+        "title": "Integrity",
+        "text": "We build lasting partnerships through honesty and trust."
+      },
+      {
+        "title": "Innovation",
+        "text": "We use digital technology to challenge old business models."
+      },
+      {
+        "title": "Partnership",
+        "text": "We grow together with our clients and partners."
+      },
+      {
+        "title": "Global Perspective",
+        "text": "We connect markets and opportunities with a global outlook."
+      }
+    ],
+    "overviewTitle": "COMPANY OVERVIEW",
+    "overview": [
+      [
+        "Company",
+        "Wakyou Trading Co., Ltd."
+      ],
+      [
+        "Japanese Name",
+        "株式会社和橋商事"
+      ],
+      [
+        "Representative Director",
+        "Wataru Iijima"
+      ],
+      [
+        "Business",
+        "International trading, wholesale and retail, cross-border EC, EC operations, business consulting, creator and live commerce support"
+      ]
+    ]
+  },
+  "profile": {
+    "eyebrow": "PRESIDENT MESSAGE",
+    "title": "President Message",
+    "intro": "Combining IT and business to create value beyond the traditional trading-company model.",
+    "name": "Wataru Iijima, Representative Director",
+    "message": [
+      "Thank you for your continued support of Wakyou Trading Co., Ltd.",
+      "Guided by our philosophy, “Connecting trust. Creating value,” we continue to walk alongside our clients as a bridge between Japan and the world.",
+      "International trade and cross-border e-commerce are changing rapidly as digital technology advances and new business models emerge. Through trading, wholesale and retail, cross-border EC, EC operations, trade consulting, live commerce and creator-business consulting, we provide solutions tailored to each client’s needs.",
+      "My background is in information technology, including system development and network technology. I believe combining IT and business enables us to create value beyond the traditional boundaries of a trading company.",
+      "Trust is the foundation of every business. We approach every project with integrity and remain committed to delivering long-term value."
+    ],
+    "profileLabel": "PROFILE",
+    "profileTitle": "Wataru Iijima",
+    "role": "Representative Director",
+    "bio": "Born in 1999. Studied information technology with a focus on IT, networks and software development, earning qualifications in Java programming, networking and databases. Today, he leads Wakyou Trading and works to develop international trading, cross-border e-commerce and digital business models connecting Japan with overseas markets.",
+    "personalLabel": "PERSONAL",
+    "personal": [
+      "Reading",
+      "Researching IT, AI and emerging technology",
+      "Sports",
+      "Following global economics and business",
+      "Community and volunteer activities"
+    ],
+    "mottoLabel": "MOTTO",
+    "motto": "Trust is the starting point of every business."
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "Contact",
+    "intro": "Talk to us about international trading, cross-border e-commerce, EC operations, market entry and creator business.",
+    "formTitle": "Tell us about your project",
+    "fields": {
+      "company": "Company",
+      "name": "Name",
+      "email": "Email",
+      "category": "Inquiry type",
+      "message": "Message",
+      "consent": "I agree to the handling of my personal information.",
+      "submit": "Create inquiry email"
+    },
+    "categories": [
+      "International trading & wholesale",
+      "Cross-border EC & operations",
+      "Market entry & business consulting",
+      "Creator & live commerce",
+      "Other"
+    ],
+    "success": "Opening your email app. Please review the message before sending.",
+    "directTitle": "Email us directly",
+    "directText": "You can also contact us directly by email.",
+    "note": "We usually respond within two business days."
+  }
+}
