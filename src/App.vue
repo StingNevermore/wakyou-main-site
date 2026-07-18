@@ -235,7 +235,7 @@ function submit(event) {
           <div class="message-copy"><p v-for="paragraph in tm('profile.message')" :key="rt(paragraph)">{{ rt(paragraph) }}</p></div>
         </section>
         <section class="profile-card">
-          <div class="profile-monogram"><span>WI</span></div>
+          <div class="profile-monogram"><img src="/assets/wakyou-mark.png" alt="" /></div>
           <div><span class="eyebrow">{{ t('profile.profileLabel') }}</span>
             <h2>{{ t('profile.profileTitle') }}</h2>
             <h3>{{ t('profile.role') }}</h3>
