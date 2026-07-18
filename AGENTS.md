@@ -19,3 +19,4 @@ When implementing from a selected generated mock, treat that image as the source
 - The implementation stack is Vue 3 with Vite; do not reintroduce React.
 - Use a high-fidelity pale-gray, white, and charcoal editorial visual system inspired by Diamondhead; reserve navy and gold for restrained Wakyou brand accents.
 - The homepage hero uses an original Wakyou line-art illustration of Japan-to-global trade, digital networks, EC, logistics, and creator commerce; do not revert to the Tokyo nightscape or reuse Diamondhead assets.
+- Keep the desktop hero illustration visible from 44% of the viewport onward; do not restore the wider 54% copy mask.

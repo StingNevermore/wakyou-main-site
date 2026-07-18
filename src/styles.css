@@ -214,7 +214,7 @@ img {
     content: "";
     position: absolute;
     inset: 0 auto 0 0;
-    width: 54%;
+    width: 50%;
     background: var(--surface-soft);
     pointer-events: none;
 }
