@@ -1,5 +1,13 @@
+@font-face {
+    font-family: "Chill G Sans";
+    src: url("/assets/fonts/HanChanGaoHeiTi.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 :root {
-    font-family: system-ui, sans-serif;
+    font-family: "Chill G Sans", system-ui, sans-serif;
     color: #333;
     background: #ededed;
     font-synthesis: none;
